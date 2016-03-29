@@ -1,5 +1,6 @@
 # Projet_Domestication
 
+Projet client 2 à la Wild Code School, session 3, 2016, pour un colloque d'anthropologie pour l'Université Paris Sorbonne se déroulant au Museum d'Histoire Naturelle de Paris et le musée Branly
 
 ### Collaboration Git
 
